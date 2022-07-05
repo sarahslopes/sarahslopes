@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarah</h1>
 <h3 align="center">A Java backend developer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarahslopes&label=Profile%20views&color=0e75b6&style=flat" alt="sarahslopes" /> </p>
-
 -  I’m currently learning **Spring Boot, Aws, Oracle**
 
 <h3 align="left">Connect with me:</h3>
