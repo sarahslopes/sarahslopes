@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarah</h1>
 <h3 align="center">A Java backend developer </h3>
 
--  I’m currently learning **Spring Boot, Aws, Oracle**
+-  I’m currently learning **Spring Boot, Docker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
